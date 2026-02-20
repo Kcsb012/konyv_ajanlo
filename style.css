@@ -1,0 +1,22 @@
+body{
+    background-image: url(konyv_hatter.jpg);
+    background-repeat: repeat;
+    background-size: 500px 500px;
+}
+
+#keret{
+    background-color: #CA8;
+    border: solid #ECA 1px;
+    width: 720px;
+    margin: auto;
+}
+
+.konyv{
+    background-color: #ECA;
+    
+}
+
+.borito{
+    width: 120px;
+    float: left;
+}
