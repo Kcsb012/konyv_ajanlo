@@ -6,17 +6,38 @@ body{
 
 #keret{
     background-color: #CA8;
-    border: solid #ECA 1px;
+    border: solid #ECA 3px;
     width: 720px;
     margin: auto;
 }
 
 .konyv{
     background-color: #ECA;
-    
+    border: solid #432 1px;
+    margin: 0px 20px 20px 20px;
+    /* box-shadow: offset-x offset-y blur-radius spread-radius color; megnezni interneten meg h hogy mukodik */
 }
 
 .borito{
     width: 120px;
     float: left;
+    border: solid #432 1px;
+    margin: 20px 20px 0px 20px;
+}
+
+.h2{
+    margin-left: 140px;
+    font-size:large;
+}
+
+.h2nagy{
+    margin-left: 140px;
+    text-transform: uppercase;
+}
+
+p{
+    margin-top: 90px;
+    margin-left: 20px;
+    text-align: justify;
+    margin-right: 20px;
 }
