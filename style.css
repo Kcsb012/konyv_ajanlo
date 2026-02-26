@@ -14,8 +14,9 @@ body{
 .konyv{
     background-color: #ECA;
     border: solid #432 1px;
+    border-radius: 5px;
     margin: 0px 20px 20px 20px;
-    /* box-shadow: offset-x offset-y blur-radius spread-radius color; megnezni interneten meg h hogy mukodik */
+     box-shadow: 5px 5px 10px #432; 
 }
 
 .borito{
@@ -40,4 +41,12 @@ p{
     margin-left: 20px;
     text-align: justify;
     margin-right: 20px;
+}
+h1, h2{
+    text-align: center;
+}
+.konyv h2{
+    text-align: left;
+    text-indent: 20px;
+    
 }
