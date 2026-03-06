@@ -50,3 +50,13 @@ h1, h2{
     text-indent: 20px;
     
 }
+.book{
+    height: 102px;
+    width: 102px;
+    float: right;
+    margin-right: 10px;
+}
+.kiemelt{
+    font-weight: bold;
+    font-style: inherit;
+}
